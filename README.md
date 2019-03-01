@@ -17,6 +17,8 @@ http://slides.com/salyh/plugin_development_elasticsearch#/11
 
 http://jalajel.me/tutorial-elasticsearch-plugin-development/
 
+//实现自定义分词
+
 https://blog.csdn.net/frankcheng5143/article/details/82870319
 
 https://docs.ansible.com/ansible/latest/modules/elasticsearch_plugin_module.html
